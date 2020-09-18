@@ -56,6 +56,7 @@ I am passionate about new technologies and in my professional life I am driven b
 
 **WebTalk sp. z o.o. — 2019-03 - now**
 _Junior Front-end developer_
+
 Designing (UX), implementing and handling the company's client pages using WordPress. Create and send e-mails, newsletters.
 
 **WebTalk sp. z o.o. — 2018-09 - 2019-02**
@@ -84,4 +85,4 @@ I received the Bachelor's Degree in Economics
 
 ### English language
 
-B1
+**B1**
