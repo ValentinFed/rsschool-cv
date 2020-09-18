@@ -9,7 +9,7 @@
 
 ### About
 
-I am passionate about new technologies and in my professional life I am driven by the desire to develop in that direction. I am not afraid of challenges; every new experience is an opportunity for me to broaden my knowledge of coding. I learn quickly and I think that there is nothing impossible for me. I am always actively and creatively solving problems.
+I am passionate about new technologies and in my professional life I am driven by the desire to develop in that direction. I am not afraid of challenges; every new experience is an opportunity for me to broaden my knowledge of coding. I learn quickly and I think that there is nothing impossible for me. I always solve problems actively and creatively.
 
 ### Skills
 
@@ -58,7 +58,7 @@ I am passionate about new technologies and in my professional life I am driven b
 <br>
 _Junior Front-end developer_
 <br>
-Designing (UX), implementing and handling the company's client pages using WordPress. Create and send e-mails, newsletters.
+Designing (UX), implementing and handling the company's client pages using WordPress. Creating and sending e-mails, newsletters.
 
 **WebTalk sp. z o.o. — 2018-09 - 2019-02**
 <br>
@@ -70,7 +70,7 @@ Conducting campaigns and developing marketing strategies for the company's custo
 <br>
 _Traffic specialist_
 <br>
-Running advertising campaigns using Google DoubleClick. Customize HTML5 code to the needs of the system.
+Running advertising campaigns using Google DoubleClick. Customizing HTML5 code to the needs of the system.
 
 ### Education
 
@@ -78,20 +78,20 @@ Running advertising campaigns using Google DoubleClick. Customize HTML5 code to 
 <br>
 _Course „Become a front-end developer”_
 <br>
-I received a certificate confirming the completion of courses and acquired skills. I have learnt following technologies: HTML, CSS, SASS, RWD, Gulp, JavaScript, JQuery, Photoshop, PHP, WordPress.
+Certificate of course completion. Acquired skills: HTML, CSS, SASS, RWD, Gulp, JavaScript, JQuery, Photoshop, PHP, WordPress.
 
 **Kozminski University, Management in Virtual Environments, Master’s Degree** — 2015-10 - 2017-06
 <br>
-_Dissertation title_: Will building an e-learning platform allow long-term competitive advantage of higher education institutions
+_Dissertation title_: Will building an e-learning platform allow long-term competitive advantage of higher education institutions?
 
 **University of Warsaw, Polonicum** — 2012-10 - 2013-06
 <br>
-Preparatory course in Polish (900 hours). I gained a certificate of Polish language skills at B2 level.
+Preparatory course in Polish language (900 hours). B2 Polish language certificate.
 
 **Minsk International University„MITSO”, Finances and crediting, Bachelor’s Degree** — 2008-09 - 2012-06
 <br>
 _Dissertation title_: Organization of foreign exchange operations on the Forex foreign exchange market on the example of MTBank.
-I received the Bachelor's Degree in Economics
+The Bachelor's Degree in Economics
 
 ### English language
 
