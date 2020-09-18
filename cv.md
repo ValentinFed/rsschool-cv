@@ -66,7 +66,7 @@ _Advertising Specialist_
 <br>
 Conducting campaigns and developing marketing strategies for the company's customers.
 
-**WebTalk sp. z o.o. — 2018-06 - 2018-08**
+**OMD Group — 2018-06 - 2018-08**
 <br>
 _Traffic specialist_
 <br>
