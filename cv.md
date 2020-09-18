@@ -55,8 +55,9 @@ I am passionate about new technologies and in my professional life I am driven b
 ### Work experience
 
 **WebTalk sp. z o.o. — 2019-03 - now**
+<br>
 _Junior Front-end developer_
-
+<br>
 Designing (UX), implementing and handling the company's client pages using WordPress. Create and send e-mails, newsletters.
 
 **WebTalk sp. z o.o. — 2018-09 - 2019-02**
