@@ -1,15 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-input:focus,
-select:focus,
-textarea:focus,
-button:focus {
-  outline: none;
-}
-
-body {
-  background-color: #f4f4f4;
-}
+@import "reset.css";
+@import "global.css";
+@import "css/header.css";
+@import "css/skills.css";
+@import "css/code.css";
+@import "css/experience.css";
+@import "css/education.css";
+@import "css/english.css";
