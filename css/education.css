@@ -1,0 +1,15 @@
+.education__item {
+  margin: 1rem;
+}
+.education__organization {
+  margin-bottom: 0.1rem;
+}
+
+.education__description {
+  margin-top: 0.1rem;
+}
+
+.education__course {
+  font-style: italic;
+  margin: 0.1rem 0;
+}
