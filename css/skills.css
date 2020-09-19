@@ -1,0 +1,22 @@
+.skills__items {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: var(--font-title);
+}
+
+.skills__item {
+  margin: 1rem;
+  min-width: 100px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.skills__poditems {
+  margin-left: 1rem;
+  list-style: circle;
+}
+
+.skills__poditem {
+  margin: 0.5rem;
+  font-weight: 400;
+}

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML, CSS & Git Basics</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <div class="header__wrapper">
+          <div class="header__left">
+            <img src="./images/img.jpg" alt="" />
+          </div>
+          <div class="header__right">
+            <h1 class="header__name">Valentin Fediuk</h1>
+            <p class="header__about">
+              I am passionate about new technologies and in my professional life
+              I am driven by the desire to develop in that direction. I am not
+              afraid of challenges; every new experience is an opportunity for
+              me to broaden my knowledge of coding. I learn quickly and I think
+              that there is nothing impossible for me. I always solve problems
+              actively and creatively.
+            </p>
+            <ul class="contact__items">
+              <li class="contact__item">
+                <span>E-mail:</span> val.fediuk@gmail.com
+              </li>
+              <li class="contact__item">
+                <span>Telegram:</span> +48 884 080 621
+              </li>
+              <li class="contact__item">
+                <span>Discord:</span> Valentin Fediuk#6363
+              </li>
+              <li class="contact__item"><span>Github:</span> ValentinFed</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="skills">
+      <div class="container">
+        <h2 class="name__section">Skills</h2>
+        <div class="skills__wrapper">
+          <ul class="skills__items">
+            <li class="skills__item">HTML5</li>
+            <li class="skills__item">CSS3 => SCSS</li>
+            <li class="skills__item">
+              JavaScript
+              <ol class="skills__poditems">
+                <li class="skills__poditem">ES6</li>
+                <li class="skills__poditem">jQuery</li>
+                <li class="skills__poditem">TypeScript</li>
+              </ol>
+            </li>
+            <li class="skills__item">
+              React.js
+              <ol class="skills__poditems">
+                <li class="skills__poditem">Redux</li>
+              </ol>
+            </li>
+            <li class="skills__item">
+              Node.js
+              <ol class="skills__poditems">
+                <li class="skills__poditem">Express</li>
+              </ol>
+            </li>
+            <li class="skills__item">Firebase</li>
+            <li class="skills__item">Gulp / Webpack</li>
+            <li class="skills__item">PHP / WordPress</li>
+            <li class="skills__item">RWD</li>
+            <li class="skills__item">Photoshope / Figma</li>
+            <li class="skills__item">Git</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="code">
+      <div class="container">
+        <div class="code__wrapper">
+          <h2 class="name__section">Code</h2>
+          <pre>
+            <code>
+              // write information to localStorage
+              const date = `${new Date().getDate()}/${new Date().getMonth() + 1}/${new Date().getFullYear()}`;
+      
+              if (localStorage.getItem('user')) {
+                      const user = JSON.parse(localStorage.getItem('user'));
+                      user.lastEntry = user.currentEntry;
+                      user.counter += 1;
+                      user.currentEntry = date;
+                      localStorage.setItem('user', JSON.stringify(user));
+              } else {
+                      const user = {
+                              currentEntry: date,
+                              counter: 1,
+                              lastEntry: '',
+                      };
+                      localStorage.setItem('user', JSON.stringify(user));
+              }
+            </code>
+          </pre>
+        </div>
+      </div>
+    </section>
+
+    <section class="experience">
+      <div class="container">
+        <div class="experience__wrapper">
+          <h2 class="name__section">Experience</h2>
+          <div class="experience__item">
+            <h3 class="experience__firm">WebTalk sp. z o.o. — 2019-03 - now</h3>
+            <p class="experience__name">Junior Front-end developer</p>
+            <p class="experience__description">
+              Designing (UX), implementing and handling the company's client
+              pages using WordPress. Creating and sending e-mails, newsletters.
+            </p>
+          </div>
+          <div class="experience__item">
+            <h3 class="experience__firm">
+              WebTalk sp. z o.o. — 2018-09 - 2019-02
+            </h3>
+            <p class="experience__name">Advertising Specialist</p>
+            <p class="experience__description">
+              Conducting campaigns and developing marketing strategies for the
+              company's customers.
+            </p>
+          </div>
+          <div class="experience__item">
+            <h3 class="experience__firm">OMD Group — 2018-06 - 2018-08</h3>
+            <p class="experience__name">Traffic specialist</p>
+            <p class="experience__description">
+              Running advertising campaigns using Google DoubleClick.
+              Customizing HTML5 code to the needs of the system.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="education">
+      <div class="container">
+        <div class="education__wrapper">
+          <h2 class="name__section">Education</h2>
+          <div class="education__item">
+            <h3 class="education__organization">
+              Programming school "Coders Lab" — 2016-08 - 2016-10
+            </h3>
+            <p class="education__course">
+              Course „Become a front-end developer”
+            </p>
+            <p class="education__description">
+              Designing (UX), implementing and handling the company's client
+              pages using WordPress. Creating and sending e-mails, newsletters.
+            </p>
+          </div>
+          <div class="education__item">
+            <h3 class="education__organization">
+              Kozminski University, Management in Virtual Environments, Master’s
+              Degree — 2015-10 - 2017-06
+            </h3>
+            <p class="education__description">
+              _Dissertation title_: Will building an e-learning platform allow
+              long-term competitive advantage of higher education institutions?
+            </p>
+          </div>
+          <div class="education__item">
+            <h3 class="education__organization">
+              University of Warsaw, Polonicum — 2012-10 - 2013-06
+            </h3>
+            <p class="education__description">
+              Preparatory course in Polish language (900 hours). B2 Polish
+              language certificate.
+            </p>
+          </div>
+          <div class="education__item">
+            <h3 class="education__organization">
+              Minsk International University„MITSO”, Finances and crediting,
+              Bachelor’s Degree — 2008-09 - 2012-06
+            </h3>
+            <p class="education__description">
+              _Dissertation title_: Organization of foreign exchange operations
+              on the Forex foreign exchange market on the example of MTBank. The
+              Bachelor's Degree in Economics
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="english">
+      <div class="container">
+        <div class="english__wrapepr">
+          <h2 class="name__section">Experience</h2>
+          <h3 class="english__level">B1</h3>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
